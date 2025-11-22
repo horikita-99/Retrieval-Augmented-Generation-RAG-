@@ -10,6 +10,7 @@ Internal company knowledge bots
 Academic and technical assistants 
 
 Document-based AI assistants 
+
 **What is RAG?**
 
 Retrieval-Augmented Generation (RAG) is the process of improving responses from a Large Language Model by connecting it with an external knowledge source such as research papers, PDFs, or databases.
